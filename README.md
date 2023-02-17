@@ -2,7 +2,7 @@
 
 Welcome to the companion app of Odyssey Lift-off V (client)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
 
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
+You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).a
 
 You can [find the server counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-server).
 
